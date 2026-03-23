@@ -89,10 +89,8 @@ The study identifies the most accurate model for forecasting reliability across 
 
 ### Student Portal Forecast
 ![Student Portal Forecast](path/to/student_portal_forecast.png)
-
-
-
----
+### All Forecasted Failure Probabilities
+![All Forecasted failure probabilities](path/to/student_portal_forecast.png)
 
 ## Conclusion
 
