@@ -90,7 +90,7 @@ The study identifies the most accurate model for forecasting reliability across 
 ### Student Portal Forecast
 ![Student Portal Forecast](path/to/student_portal_forecast.png)
 
-> Replace the image paths above with the actual paths to your saved Prophet prediction graphs.
+
 
 ---
 
