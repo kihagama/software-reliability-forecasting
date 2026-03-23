@@ -79,8 +79,7 @@ The study identifies the most accurate model for forecasting reliability across 
 ## Prophet Forecast Visualizations
 
 ### Application Module Forecast
-![Application Forecast](software-reliability-forecasting/assest
-/Screenshot 2026-03-23 105412.png)
+![Application Forecast](assest/Screenshot%202026-03-23%20105412.png)
 
 ### Admission Module Forecast
 ![Admission Forecast](path/to/admission_forecast.png)
