@@ -82,15 +82,15 @@ The study identifies the most accurate model for forecasting reliability across 
 ![Application Forecast](assest/Screenshot%202026-03-23%20105412.png)
 
 ### Admission Module Forecast
-![Admission Forecast](path/to/admission_forecast.png)
+![Admission Forecast](assest/Screenshot%202026-03-23%20105429.png)
 
 ### Academic Module Forecast
-![Academic Forecast](path/to/academic_forecast.png)
+![Academic Forecast](assest/Screenshot%202026-03-23%20105632.png)
 
 ### Student Portal Forecast
-![Student Portal Forecast](path/to/student_portal_forecast.png)
+![Student Portal Forecast](assest/Screenshot%202026-03-23%20105646.png)
 ### All Forecasted Failure Probabilities
-![All Forecasted failure probabilities](path/to/student_portal_forecast.png)
+![All Forecasted failure probabilities](assest/Screenshot%202026-03-23%20105704.png)
 
 ## Conclusion
 
